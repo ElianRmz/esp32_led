@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/Users/elianmoment/Desktop/esp32/webapp/build/CMakeFiles/bootloader
+/Users/elianmoment/Desktop/esp32/webapp/build/CMakeFiles/bootloader.rule
+/Users/elianmoment/Desktop/esp32/webapp/build/CMakeFiles/bootloader-complete.rule
+/Users/elianmoment/Desktop/esp32/webapp/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/Users/elianmoment/Desktop/esp32/webapp/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/Users/elianmoment/Desktop/esp32/webapp/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/Users/elianmoment/Desktop/esp32/webapp/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/Users/elianmoment/Desktop/esp32/webapp/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/Users/elianmoment/Desktop/esp32/webapp/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/Users/elianmoment/Desktop/esp32/webapp/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
